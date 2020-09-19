@@ -1,0 +1,6 @@
+n1 = int(input("Nhap vao n1 : "))
+n2 = int(input("Nhap vao n2 : "))
+cong = (n1 + n2)
+tru = (n1 - n2)
+print(f"Kết quả phép cộng là : {cong}")
+print(f"Kết quả phép trừ là : {tru}")
